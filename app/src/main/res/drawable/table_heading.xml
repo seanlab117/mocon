@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--    resourseFile -> resourse type: Drawable, root element: shape-->
+    <!--    solid is for background-->
+    <solid android:color="#061445"></solid>
+    <!--    stroke is for border we do need to define width-->
+    <stroke android:color="#11ABC6" android:width="1dp"></stroke>
+
+</shape>

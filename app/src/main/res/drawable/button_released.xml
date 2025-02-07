@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--new android resource file -> button_pressed-> drawable-> shape -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--    this is for button-->
+    <solid android:color="#1C77D3"></solid>
+    <stroke android:color="#18236A" android:width="4dp"></stroke>
+    <corners android:radius="360dp"></corners>
+</shape>
