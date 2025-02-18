@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">LEDLamp</string>
+
+    <string name="static_color">static_color</string>
+    <string name="beacon_light">Beacon light</string>
+    <string name="color_loop">Color loop</string>
+    <string name="rotating_lines">Rotating lines</string>
+    <string name="rotating_rainbow">Rotating rainbow</string>
+    <string name="menu_color_pick">Color pick</string>
+    <string name="menu_effects">Effects</string>
+    <string name="menu_moods">Moods</string>
+    <string name="title_red">Red</string>
+    <string name="title_green">Green</string>
+    <string name="title_blue">Blue</string>
+    <string name="title_brightness">Brightness</string>
+
+    <string name="mood_sunset">Sunset</string>
+    <string name="mood_sunset2">Sunset 2</string>
+    <string name="mood_woods">Woods</string>
+    <string name="mood_sakura">Sakura</string>
+    <string name="status_connecting_to_lamp">Connecting to Lamp…</string>
+    <string name="mood_ruby">Ruby room</string>
+    <string name="mood_star_night">Night sky</string>
+    <string name="flowy_colors">Flowy colors</string>
+    <string name="mood_timed_sunset">Timed Sunset</string>
+    <string name="fekke">FeKkE!</string>
+    <string name="fakka_ur">FAKKA UR!!</string>
+    <string name="mood_flower_field">Flower field</string>
+    <string name="mood_fall">Fall</string>
+    <string name="mood_clouds">Clouds</string>
+    <string name="mood_fire">Fire</string>
+    <string name="mood_brown_landscape">Brown landscape</string>
+    <string name="settings_spotify_integration">Spotify integration</string>
+    <string name="settings_notification_flash">Notification flash</string>
+    <string name="title_select_image">Select Picture</string>
+
+</resources>
